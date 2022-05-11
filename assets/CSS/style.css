@@ -4,12 +4,26 @@
     border: none;
 }
 
+/*Grid Container*/
+
 #grid_container {
     display: grid;
-    grid-template-columns: repeat(4, 1fr) ;
-    grid-template-areas: "header header header header";
+    grid-template-columns: repeat(auto-fit, min-max(360px, 1)) ;
+    grid-template-areas: "header";
+    auto
 }
 
+body{
+    font-family: ;
+    font-size: 1rem;
+    color: rgb(248, 242, 242);
+}
+/*header*/
 .header {
     grid-template-areas: header;
+    background-color: #70A37F;
+}
+
+#logo {
+    max-width: 100%;
 }
