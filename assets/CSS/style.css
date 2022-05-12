@@ -1,20 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Raleway:wght@300&display=swap');
 * {
     margin: 0;
     padding: 0;
     border: none;
 }
 body{
-    font-family: ;
+    font-family: raleway, cabin, serif;
+    font-weight: 300;
     font-size: 1rem;
     color: rgb(248, 242, 242);
-    height: 100vh;
+    
 }
 /*Grid Container*/
 
 #grid_container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, min-max(360px, 1)) ;
-    grid-template-areas: "header";
+    height: 100vh;
+    grid-template-columns: repeat(auto-fit, min-max(1fr, 4)) ;
+    grid-template-areas: "header header header header";
     auto
 }
 
@@ -23,14 +27,7 @@ body{
 header {
     grid-template-areas: header;
     background-color: #70A37F;
-    min-height: 100px;
-}
-
-#logo {
-    margin: 0;
-    max-height: 200px ;
-    max-width: 200px;
-    overflow: hidden;
+    max-height: 200px;
 }
 
 header a {
