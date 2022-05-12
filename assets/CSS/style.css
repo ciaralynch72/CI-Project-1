@@ -3,7 +3,12 @@
     padding: 0;
     border: none;
 }
-
+body{
+    font-family: ;
+    font-size: 1rem;
+    color: rgb(248, 242, 242);
+    height: 100vh;
+}
 /*Grid Container*/
 
 #grid_container {
@@ -13,17 +18,32 @@
     auto
 }
 
-body{
-    font-family: ;
-    font-size: 1rem;
-    color: rgb(248, 242, 242);
-}
+
 /*header*/
-.header {
+header {
     grid-template-areas: header;
     background-color: #70A37F;
+    min-height: 100px;
 }
 
 #logo {
-    max-width: 100%;
+    margin: 0;
+    max-height: 200px ;
+    max-width: 200px;
+    overflow: hidden;
+}
+
+header a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: inherit;
+}
+
+header ul {
+    margin: 0;
+    padding: 0;
+}
+
+header li {
+    display: inline;
 }
