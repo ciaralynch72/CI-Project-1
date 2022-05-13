@@ -21,35 +21,36 @@ body{
     grid-template-columns: repeat(auto-fit, min-max(1fr, 4)) ;
     grid-template-areas: "header header header header"
                          "Main main main main";
-    auto
+    
 }
 
 
 /*header*/
-header {
-    grid-template-areas: header;
+.header {
+    grid-area: header;
     background-color: #70A37F;
     max-height: 200px;
+    max-width: 1fr;
     color: whitesmoke;
 }
 
-header a {
+nav a {
     text-decoration: none;
     text-transform: uppercase;
     color: inherit;
     
 }
 
-header ul {
+nav ul {
     margin: 0;
     padding: 0;
 }
 
-header li {
+nav li {
     display: inline;
     float: right;
 }
 /*Main Section*/
 .main_section {
-    grid-template-areas: main;
+    grid-area: main;
 }
