@@ -18,8 +18,9 @@ body{
 #grid_container {
     display: grid;
    
-    grid-template-columns: repeat(auto-fit, min-max(1fr, 4)) ;
+    grid-template-columns: repeat(auto-fit, min-max(1fr)) ;
     grid-template-areas: "header"
+                         "main_section_image"
                          "Main";
     
 }
@@ -64,6 +65,18 @@ nav li {
     margin: 5px;
 }
 /*Main Section*/
+
+.main_section_image {
+    grid-area: main_section_image;  
+    
+}
+
+.main_section_image > img {
+    justify-content: center;
+    align-items: center;
+    object-fit: cover;
+    
+}
 .main_section {
     grid-area: main;
 }
