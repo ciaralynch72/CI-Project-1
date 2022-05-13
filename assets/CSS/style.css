@@ -9,7 +9,7 @@ body{
     font-family: raleway, cabin, serif;
     font-weight: 300;
     font-size: 1rem;
-    color: rgb(13, 3, 58);
+    color: #274156;
     height: 100vh;
     
 }
@@ -24,7 +24,7 @@ body{
     
 }
 h1, h2, h3, h4 {
-    margin: 5px;
+    margin: 10px;
     text-align: center;
 }
 
@@ -43,6 +43,7 @@ p {
     letter-spacing: 4px;
     font-size: 80%;
     text-align: center;
+    border-bottom: solid 2px #274156;
 }
 
 nav a {
