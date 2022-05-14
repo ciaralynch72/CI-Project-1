@@ -21,7 +21,8 @@ body{
     grid-template-columns: repeat(auto-fit, min-max(1fr)) ;
     grid-template-areas: "header"
                          "main_section_image"
-                         "Main";
+                         "Main"
+                         "vegatable_doodle";
     
 }
 h1, h2, h3, h4 {
@@ -76,4 +77,12 @@ nav li {
 }
 .main_section {
     grid-area: main;
+}
+
+.vegatable_doodle{
+    grid-area:vegatable_doodle;
+}
+
+.vegatable_doodle > image {
+    object-fit: cover;
 }
