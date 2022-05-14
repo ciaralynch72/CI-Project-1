@@ -10,8 +10,8 @@ body{
     font-weight: 300;
     font-size: 1rem;
     color: #274156;
-    height: 100vh;
-    
+    width: 100vw;
+    height: 100vh; 
 }
 /*Grid Container*/
 
@@ -68,12 +68,9 @@ nav li {
 
 .main_section_image {
     grid-area: main_section_image;  
-    
 }
 
 .main_section_image > img {
-    justify-content: center;
-    align-items: center;
     object-fit: cover;
     
 }
