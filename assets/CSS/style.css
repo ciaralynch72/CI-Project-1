@@ -93,18 +93,25 @@ nav li {
 
 /*Footer*/
 #footer {
-    height: 100px;
+    height: 150px;
     text-align: center;
     background-color: #70A37F;
-    color: whitesmoke;
+    color: whitesmoke
 }
 
 .social-networks {
     text-align: center;
+    margin-top: 10px;
 }
 
 .social-networks > li {
     display: inline;
+    color: whitesmoke;
+}
+
+.social-networks > li > a {
+    color: whitesmoke;
+    padding: 5px;
 }
 
 
