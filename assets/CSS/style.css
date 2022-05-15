@@ -22,7 +22,8 @@ body{
     grid-template-areas: "header"
                          "main_section_image"
                          "Main"
-                         "vegatable_doodle";
+                         "vegatable_doodle"
+                         "footer";
     
 }
 h1, h2, h3, h4 {
@@ -69,10 +70,12 @@ nav li {
 
 .main_section_image {
     grid-area: main_section_image;  
+    background-color: orange;
+    text-align: center;
 }
 
 .main_section_image > img {
-    object-fit: cover;
+    
     
 }
 .main_section {
@@ -80,9 +83,28 @@ nav li {
 }
 
 .vegatable_doodle{
-    grid-area:vegatable_doodle;
+    background-color: orange;
+    text-align: center;
 }
 
-.vegatable_doodle > image {
-    object-fit: cover;
+.vegatable_doodle > img {
+    ;
 }
+
+/*Footer*/
+#footer {
+    height: 100px;
+    text-align: center;
+    background-color: #70A37F;
+    color: whitesmoke;
+}
+
+.social-networks {
+    text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+
