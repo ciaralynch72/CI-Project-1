@@ -18,7 +18,8 @@ body{
 #grid_container {
     display: grid;
    
-    grid-template-columns: repeat(auto-fit, min-max(1fr)) ;
+    grid-template-columns: 1fr ;
+   
     grid-template-areas: "header"
                          "main_section_image"
                          "Main"
@@ -39,14 +40,14 @@ p {
 /*header*/
 .header {
     grid-area: header;
-    background-color: #70A37F;
+    background-color: #55742a;
     max-height: 200px;
     max-width: 1fr;
     color: whitesmoke;
     letter-spacing: 4px;
     font-size: 80%;
     text-align: center;
-    border-bottom: solid 2px #274156;
+    
 }
 
 nav a {
@@ -70,12 +71,12 @@ nav li {
 
 .main_section_image {
     grid-area: main_section_image;  
-    background-color: orange;
     text-align: center;
 }
 
 .main_section_image > img {
-    
+    max-width: 100%;
+    max-height: fit-content;
     
 }
 .main_section {
@@ -83,19 +84,21 @@ nav li {
 }
 
 .vegatable_doodle{
-    background-color: orange;
+    grid-area: vegatable_doodle;
     text-align: center;
 }
 
 .vegatable_doodle > img {
-    ;
+    max-width: 100%;
+    max-height: fit-content;
+    
 }
 
 /*Footer*/
 #footer {
-    height: 150px;
+    height: 100px;
     text-align: center;
-    background-color: #70A37F;
+    background-color: #55742a;
     color: whitesmoke
 }
 
