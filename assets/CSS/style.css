@@ -34,6 +34,7 @@ h1, h2, h3, h4 {
 
 p {
     margin: 5px;
+    padding: 5px;
     text-align: center;
 }
 
@@ -69,6 +70,13 @@ nav li {
 }
 /*Main Section*/
 
+main div h2 {
+    background-color: #cf5c36;
+    color: whitesmoke;
+    margin: 0;
+    padding: 5px;
+}
+
 .main_section_image {
     grid-area: main_section_image;  
     text-align: center;
@@ -94,12 +102,19 @@ nav li {
     
 }
 
+main li {
+    display: block;
+    text-align: center;
+    margin: 5px;
+}
+
 /*Footer*/
 #footer {
-    height: 100px;
+    height: 125px;
     text-align: center;
     background-color: #55742a;
-    color: whitesmoke
+    color: whitesmoke;
+    padding: 5px;
 }
 
 .social-networks {
@@ -114,7 +129,7 @@ nav li {
 
 .social-networks > li > a {
     color: whitesmoke;
-    padding: 5px;
+
 }
 
 
