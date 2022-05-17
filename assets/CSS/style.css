@@ -43,7 +43,7 @@ p {
     grid-area: header;
     background-color: #55742a;
     max-height: 200px;
-    max-width: 1fr;
+    max-width: 100%;
     color: whitesmoke;
     letter-spacing: 4px;
     font-size: 80%;
