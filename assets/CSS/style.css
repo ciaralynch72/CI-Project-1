@@ -63,6 +63,10 @@ nav a:hover {
     border: 1px solid whitesmoke;
 }
 
+nav a:active{
+    color: #cf5c36;
+}
+
 nav ul {
     margin: 0;
     padding: 0;
