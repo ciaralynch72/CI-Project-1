@@ -172,6 +172,25 @@ main li {
 
 .community_form {
     grid-area: community_form;
-    background-color: #92AFD7;
+   
+}
+#bg_image_outer {
+        height: 400px;
+        width: 100%;
+        overflow: hidden;
+        position: relative;
+        background-image: url(../images/FormBG.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        object-fit: cover;
+        
 }
 
+#form{
+    background-color: #274156;
+    color: whitesmoke;
+    position: relative;
+    width: 80%;
+    height: 300px;
+    width: 80%;
+}
