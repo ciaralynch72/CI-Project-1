@@ -1,5 +1,5 @@
 # Kilworth Farmers' Market 
-[Visit the website here](https://8000-ciaralynch72-ciproject1-6pvu5e85l49.ws-us45.gitpod.io/index.html)
+[Visit the website here](https://ciaralynch72.github.io/CI-Project-1/)
 
 Created to inform users about a new (fictional) farmers market that will commence this spring at the village square in Kilworth. The site will give them an over of what to expect and information about when and where the market will be held.
 
