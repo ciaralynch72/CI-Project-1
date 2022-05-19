@@ -46,7 +46,7 @@ p {
     max-width: 100%;
     color: whitesmoke;
     letter-spacing: 4px;
-    font-size: 80%;
+    font-size: 90%;
     text-align: center;
     
 }
@@ -160,6 +160,10 @@ main li {
     margin: 0;
 }
 
+.sun_graphic > img {
+    max-width: 100%;
+    max-height: fit-content;}
+
 .community_tips {
     grid-area: community_tips;
     background-color: #92AFD7;
@@ -181,7 +185,7 @@ main li {
 .community_rules {
     grid-area: community_rules;
     background-color: #FFD166;
-    margin-left: 10%;
+     margin-left: 10%;
     margin-right: 10%;
     text-align: center;
     max-width: 80%;
@@ -203,13 +207,13 @@ main li {
 }
 
 
-#bg_image_outer {
+ #bg_image_outer {
         height: 400px;
         width: 100%;
         overflow: hidden;
         position: relative;
         background-image: url(../images/GrassForm.jpg);
-        background-repeat: repeat;
+        background-repeat: no-repeat;
         background-position: center;
         object-fit: cover;
         
@@ -225,7 +229,7 @@ main li {
 
     opacity: .6;
     margin-left: 10%;
-    margin-right: 10%;
+    margin-right: 10%; 
     text-align: center;
     max-width: 80%;
 }
