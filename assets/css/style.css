@@ -167,12 +167,8 @@ main li {
 .community_tips {
     grid-area: community_tips;
     background-color: #92AFD7;
-    margin-left: 10%;
-    margin-right: 10%;
     text-align: center;
-    max-width: 80%;
-    padding-bottom: 10px;
-    
+    padding-bottom: 10px; 
 }
 
 
@@ -185,10 +181,7 @@ main li {
 .community_rules {
     grid-area: community_rules;
     background-color: #FFD166;
-     margin-left: 10%;
-    margin-right: 10%;
     text-align: center;
-    max-width: 80%;
     padding-bottom: 10px;
 }
 
@@ -198,12 +191,8 @@ main li {
     padding-top: 10px;
 }
 
-
-    
-
 .community_form {
     grid-area: community_form;
-   
 }
 
 
@@ -215,21 +204,14 @@ main li {
         background-image: url(../images/GrassForm.jpg);
         background-repeat: no-repeat;
         background-position: center;
-        object-fit: cover;
-        
+        object-fit: cover;  
 }
 
 #form{
     background-color: #274156;
     color: whitesmoke;
-   
     height: 400px;
-    
     padding: 5px;
-
     opacity: .6;
-    margin-left: 10%;
-    margin-right: 10%; 
     text-align: center;
-    max-width: 80%;
 }
