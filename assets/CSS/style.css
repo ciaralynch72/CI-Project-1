@@ -147,27 +147,33 @@ main li {
     display: grid;
     grid-template-columns: 1fr;
     grid-template-areas: "header"
-                          "community_main_section"
+                          "sun_graphic"
                           "community_tips"
                           "community_rules"
                           "community_form"
                           "footer";
 }
 
-.community_main_section {
-    grid-area: community_main_section;
-    background-color: #cf5c36;
-   
+.sun_graphic {
+    grid-area: sun_graphic;
+    text-align: center;
+    margin: 0;
 }
 
 .community_tips {
     grid-area: community_tips;
     background-color: #92AFD7;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    max-width: 80%;
+    padding-bottom: 10px;
+    
 }
+
 
 .community_tips ul li {
     display: block;
-    justify-content: center;
     margin: 5px;
     padding-top: 10px;
 }
@@ -175,19 +181,35 @@ main li {
 .community_rules {
     grid-area: community_rules;
     background-color: #FFD166;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    max-width: 80%;
+    padding-bottom: 10px;
 }
+
+.community_rules ol li {
+    display: block;
+    margin: 5px;
+    padding-top: 10px;
+}
+
+
+    
 
 .community_form {
     grid-area: community_form;
    
 }
+
+
 #bg_image_outer {
         height: 400px;
         width: 100%;
         overflow: hidden;
         position: relative;
         background-image: url(../images/GrassForm.jpg);
-        background-repeat: no-repeat;
+        background-repeat: repeat;
         background-position: center;
         object-fit: cover;
         
@@ -196,9 +218,14 @@ main li {
 #form{
     background-color: #274156;
     color: whitesmoke;
-    position: relative;
-    height: 300px;
-    text-align: center;
+   
+    height: 400px;
+    
     padding: 5px;
-    align-self: center center;
+
+    opacity: .6;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    max-width: 80%;
 }
