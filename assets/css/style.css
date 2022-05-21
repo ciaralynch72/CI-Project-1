@@ -149,20 +149,21 @@ main li {
     display: grid;
     grid-template-columns: 1fr;
     grid-template-areas: "header"
-                          "sun_graphic"
+                          "jigsaw_graphic"
                           "community_tips"
+                          "pinkypromise_graphic"
                           "community_rules"
                           "community_form"
                           "footer";
 }
 
-.sun_graphic {
-    grid-area: sun_graphic;
+.jigsaw_graphic {
+    grid-area: jigsaw_graphic;
     text-align: center;
     margin: 0;
 }
 
-.sun_graphic > img {
+.jigsaw_graphic > img {
     max-width: 100%;
     max-height: fit-content;}
 
@@ -180,12 +181,23 @@ main li {
     padding-top: 10px;
 }
 
+.pinkypromise_graphic {
+    grid-area: pinkypromise_graphic;
+    text-align: center;
+    margin: 0;
+}
+
+.pinkypromise_graphic> img {
+    max-width: 100%;
+    max-height: fit-content;}
+
 .community_rules {
     grid-area: community_rules;
     background-color: #FFD166;
     text-align: center;
     padding-bottom: 10px;
 }
+
 
 .community_rules ol li {
     display: block;
