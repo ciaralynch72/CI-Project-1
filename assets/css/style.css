@@ -76,6 +76,7 @@ nav li {
     display: block;
     text-align: center;
     margin: 5px;
+    padding-bottom: 5px;
 }
 /*Main Section*/
 
@@ -135,6 +136,7 @@ main li {
 .social-networks > li {
     display: inline;
     color: whitesmoke;
+    margin-right: 10px;
 }
 
 .social-networks > li > a {
@@ -237,6 +239,7 @@ main li {
 #gallery a {
     display: flex;
     flex-direction: row wrap;
+  
 }
 
 #gallery a img {
