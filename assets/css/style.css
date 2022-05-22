@@ -10,7 +10,7 @@ body{
     font-weight: 300;
     font-size: 1rem;
     color: #274156;
-    width: 100vw;
+    width: 100%;
     height: 100vh; 
 }
 /*Grid Container*/
@@ -33,7 +33,7 @@ h1, h2, h3, h4 {
 }
 
 p {
-    margin: 5px;
+    margin: px;
     padding: 5px;
     text-align: center;
 }
@@ -128,6 +128,14 @@ main li {
     background-color: #55742a;
     color: whitesmoke;
     padding: 5px;
+}
+
+footer h4 {
+    margin-top: 10px;
+}
+
+footer h4 p {
+    margin-bottom: 10px;
 }
 
 .social-networks {
