@@ -110,7 +110,11 @@ main div h2 {
 .vegatable_doodle > img {
     max-width: 100%;
     max-height: fit-content;
-    
+}
+
+main p {
+    margin-bottom: 0;
+    padding-bottom: 0;
 }
 
 main li {
@@ -147,7 +151,7 @@ footer h4 p {
 .social-networks > li {
     display: inline;
     color: whitesmoke;
-    margin-right: 10px;
+    margin-right: 15px;
 }
 
 .social-networks > li > a {
