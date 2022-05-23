@@ -223,27 +223,46 @@ footer h4 p {
 
 .community_form {
     grid-area: community_form;
+    background-color: #274156;
 }
 
-
- #bg_image_outer {
-        height: 400px;
-        width: 100%;
-        overflow: hidden;
-        position: relative;
-        background-color: #274156;
-        background-repeat: no-repeat;
-        background-position: center;
-        object-fit: cover;   
-}
 
 #form{
     color: whitesmoke;
-    height: 250px;
+    height: 450px;
     padding: 5px;
     text-align: center;
-    
 }
+
+input[type=text], select {
+    width: 20%;
+    padding: 5px 10px;
+    margin: 5px 0;
+
+    border: 2px solid #92AFD7;
+    box-sizing: border-box;
+}
+
+input[type=email], select {
+    width: 20%;
+    padding: 5px 10px;
+    margin: 5px 0;
+    border: 2px solid #92AFD7;
+    box-sizing: border-box;
+}
+
+textarea {
+    margin-bottom: 10px;
+}
+  input[type=submit] {
+    width: 20%;
+    background-color: #92AFD7 ;
+    color: #274156;
+    padding: 5px 10px;
+    margin: 5px 0;;
+    text-transform: uppercase;
+    letter-spacing: 2.5px;
+  }
 
 /*Gallery*/
 #grid_container_gallery {
