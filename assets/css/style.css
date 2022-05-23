@@ -33,7 +33,7 @@ h1, h2, h3, h4 {
 }
 
 p {
-    margin: px;
+    margin: 15px;
     padding: 5px;
     text-align: center;
 }
@@ -234,7 +234,7 @@ footer h4 p {
 
 #form{
     color: whitesmoke;
-    height: 300px;
+    height: 250px;
     padding: 5px;
     text-align: center;
     

@@ -71,7 +71,6 @@ The colour pallette was choosen as a nod to those colors that we so often find i
 The font Ralway and Cabin was used as they are lightweight and have more a natural feel to them which I tought comlimented the colors. 
 
 The use of graphics throughout the Home and Community page was used to compliement the colors and to keep the site clean and user friendly and to break up blocks of text to allow the user to take in the information in chunks. 
-
 ## Features 
 
 This is a fully responsive site that was created mobile first. The site is broken up into three pages. 
