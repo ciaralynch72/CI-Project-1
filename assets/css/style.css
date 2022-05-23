@@ -51,23 +51,24 @@ p {
     
 }
 
-nav a {
+.nav a {
     text-decoration: none;
     text-transform: uppercase;
     color: inherit;
     
 }
 
-nav a:hover {
+.nav a:hover {
     color: #cf5c36 ;
-    border: 1px solid whitesmoke;
+    border-bottom: 1px solid whitesmoke;
 }
 
-nav a:active{
+.active {
     color: #cf5c36;
+    border-bottom: 1px solid whitesmoke;
 }
 
-nav ul {
+.nav ul {
     margin: 0;
     padding: 0;
 }
