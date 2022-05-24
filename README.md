@@ -76,4 +76,17 @@ The use of graphics throughout the Home and Community page was used to complieme
 This is a fully responsive site that was created mobile first. The site is broken up into three pages. 
 
 #### Header
-The header is consistent across all three pages. The header contains the name, Kilworth Farmers' Market the navigation. The navigation and the logo are all centered in the header to allow the user to easily navigate the site. The header is consistent across The links will remain active when in use.
+The header is consistent across all three pages. The header contains the name, Kilworth Farmers' Market and the navigation for the site. The navigation and the logo are all centered in the header to allow the user to easily navigate the site from the header. 
+
+#### Navigation 
+The navigation is in the center of the page and and consists of three links to the Home, Community and Gallery pages. The navigation links turn orange when hovered over and the current page will be underlined in white to let the user know what page they are currently on. 
+
+#### Footer
+The footer is consistent across all three pages at the bottom of the page and the color is consistent with the header to create a balanced page. The footer contains the address of the market along with the social media links to social platforms to allow the user to look at more online content linked too the market. 
+
+#### Home Page
+The home page is made up of a hero graphic along with two doodle graphics that I placed on colored backgrounds that tie in with the color scheme to break up the text. I kept the text to a minimum so as not to overwhelm the user but let them know everything they would need in order to learn about the market and know when and where it would be held. 
+
+#### Community Page
+The community page 
+
