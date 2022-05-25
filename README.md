@@ -1,4 +1,4 @@
-# [Kilworth Farmers' Market](https://ciaralynch72.github.io/CI-Project-1/)
+# [Kilworth Farmers' Market](https://ciaralynch72.github.io/ciaralynch-project-1/)
 
 ![Responsive image of website pages](assets/readme_images/am_i_responsive.png)  
 Created to inform users about a new (fictional) farmers market that will commence this spring. The site will give users an over of what to expect and information about when and where the market will be held.
