@@ -258,13 +258,11 @@ footer h4 p {
 
 #gallery a {
     display: flex;
-    flex-direction: row wrap;
-  
+    flex-wrap: wrap;
 }
 
 #gallery a img {
     max-width: 100%;
-   ;
 }
 
 /*Form*/

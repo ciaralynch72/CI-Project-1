@@ -1,6 +1,6 @@
 # [Kilworth Farmers' Market](https://ciaralynch72.github.io/CI-Project-1/)
 
-
+![Responsive image of website pages](assets/readme_images/am_i_responsive.png)  
 Created to inform users about a new (fictional) farmers market that will commence this spring. The site will give users an over of what to expect and information about when and where the market will be held.
 
 ##### The business goals of the website are:
@@ -33,7 +33,7 @@ Target Users:
 4. People who wish to support the local economy
 5. People who are interested in contributing to making the locality more substainable
 
-What these users are looking for:
+What the users are looking for:
 
 1. Information about when and where the farmers market is on
 2. To be able find out more information by signing up to join the community
@@ -57,9 +57,9 @@ Text is broken up with graphics to make the content easily digestable by reader.
 
 #### Skeleton
 Wireframes
-1. [Home Page](assets/images/about_page_wireframe.png "Kilworth Farmers' Market")
-2. [Sign Up Page](assets/images/sign_up_page.png "Kilworth Farmers' Market")
-3. [Gallery Page](assets/images/vendor_info_kfm.png "Kilworth Farmers' Market")
+1. [Home Page](assets/readme_images/homepage_wireframe.png)
+2. [Sign Up Page](assets/readme_images/sign_up.png)
+3. [Gallery Page](assets/readme_images/gallery_wireframe.png)
 
 The site layout and content has changed since my initial wireframe however I have kept the simple three page layout. I simplified the design which ment I could achieve responsiveness easier. I kept the content short and sweet to keep the user engaged and to provide a MVP site that can be the basis to suit the markets infancy and which can be developed as the market devolps to provide more functionality to the user and business owener. 
 
@@ -71,7 +71,11 @@ The colour pallette was choosen as a nod to those colors that we so often find i
 The font Ralway and Cabin was used as they are lightweight and have more a natural feel to them which I tought comlimented the colors. 
 
 The use of graphics throughout the Home and Community page was used to compliement the colors and to keep the site clean and user friendly and to break up blocks of text to allow the user to take in the information in chunks. 
+
+
 ## Features 
+
+### Current Features 
 
 This is a fully responsive site that was created mobile first. The site is broken up into three pages. 
 
@@ -95,7 +99,18 @@ About the bottom of the community page there is also a sign up form for page vis
 #### Gallery Page
 The Gallery page showcases som of the vendors that will be attending the market along with a caption of their names for let site visitors know what they can expect to see at the market. 
 
-The gallery was created using fancybox to allow site visitors to easily browse through the vendors. 
+The gallery was created using fancybox to allow site visitors to easily browse through the vendors.
+
+## Future Feature
+
+#### Vendor Page
+I would like to create a page dedicated to vendors so that we can highlight their business and link page to their own website.
+
+#### Burger Menu
+I would like to add a burger menu to the navigation link for smaller devices.
+
+#### Testimonials 
+I would like to add testimonials to give the user a sense of impact the market makes to the community
 
 ## Technologies Used
 I have used several technologies that have enabled this design to work:
@@ -114,24 +129,29 @@ I have used several technologies that have enabled this design to work:
     - Used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
 - [Gitpod](https://www.gitpod.io/)
     - Used as the development environment.
-- [Grammarly](https://www.grammarly.com/)
-    - Used to fix the thousands of grammar errors across the project.
 - [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB)
     - Used to detect overflow of elements, which allowed me to quickly debug any issues.
-- [Coloors](https://coolors.co/)
-    - Used to create a colour palette for the design.
+- [Coloors](https://coolors.co/cf5c36-70a37f-92afd7-274156-ffd166)
+    - Used to create a colour palette for the website
 - [Fancybox](https://fancyapps.com/fancybox/3/)
-    - Used to create the carosel
+    - Used to create the Carousel
 - [Color Contrast Accessibility Validator](https://color.a11y.com/)
     - Allowed me to test the colour contrast of my webpage.
 - [W3C Markup Validation Service](https://validator.w3.org/) 
     - Used to validate all HTML code written and used in this webpage.
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
     - Used to validate all CSS code written and used in this webpage.
-- [Freeformatter CSS Beautify](https://www.freeformatter.com/css-beautifier.html)
-    - Used to accurately format my CSS code.
-- [Freeformatter HTML Formatter](https://www.freeformatter.com/html-formatter.html)
-    - Used to accurately format my HTML code.
 - [AmIResponsive](http://ami.responsivedesign.is/)
     - Used to generate repsonsive image used in README file.
+- Photoshop
+    - Used to change the line color on the farm graphic on the main page.
+- Chrome Developer Tools
+    - Used to test the HTML and CSS in the building phase for both functionality and responsiveness
+- Paint
+    - Used to resize my images for my gallery and to create thumbnails.
+
+
+## Testing
+ #### W3C Markup Validation Service
+ Each page of HTML was tested using W3C Markup Validation Service. 
 
