@@ -166,6 +166,7 @@ footer h4 p {
     grid-template-columns: 1fr;
     row-gap: 10px;
     grid-template-areas: "header"
+                        "community_intro"
                           "jigsaw_graphic"
                           "community_tips"
                           "pinkypromise_graphic"
@@ -173,6 +174,9 @@ footer h4 p {
                           "footer";
 }
 
+.community_intro {
+    grid-area: community_intro;
+}
 .jigsaw_graphic {
     grid-area: jigsaw_graphic;
     text-align: center;
