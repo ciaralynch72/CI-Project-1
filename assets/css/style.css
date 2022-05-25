@@ -11,7 +11,7 @@ body{
     font-size: 1rem;
     color: #274156;
     width: 100%;
-    height: 100vh; 
+    min-height: 100%; 
 }
 /*Grid Container*/
 
@@ -135,6 +135,7 @@ main li {
     padding: 5px;
 }
 
+
 footer h4 {
     margin-top: 10px;
 }
@@ -169,7 +170,6 @@ footer h4 p {
                           "community_tips"
                           "pinkypromise_graphic"
                           "community_rules"
-                          "community_form"
                           "footer";
 }
 
@@ -221,17 +221,65 @@ footer h4 p {
     padding-top: 10px;
 }
 
-.community_form {
-    grid-area: community_form;
-    background-color: #274156;
+
+
+/*Gallery Page*/
+#grid_container_gallery {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-areas: "header"
+                        "gallery_intro"
+                         "gallery"
+                         "contact_form"
+                        "footer";
+
 }
+
+
+
+.gallery_intro {
+    grid-area: gallery_intro;
+}
+
+/* Fancybox Carousel*/
+#gallery {
+    grid-area: gallery;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(10em, 1fr));
+    grid-auto-rows: auto;
+    grid-gap: 1.5em;
+    padding: 1.5em;
+}
+
+
+#gallery a {
+    display: flex;
+    flex-direction: row wrap;
+  
+}
+
+#gallery a img {
+    max-width: 100%;
+   ;
+}
+
+/*Form*/
+
+.contact_form {
+    grid-area: contact_form;
+    background-color: #274156;
+    margin-bottom: 10px;
+    
+}
+
 
 
 #form{
     color: whitesmoke;
-    height: 450px;
+    height: 525px;
     padding: 5px;
     text-align: center;
+    
 }
 
 input[type=text], select {
@@ -254,6 +302,7 @@ input[type=email], select {
 textarea {
     margin-bottom: 10px;
 }
+
   input[type=submit] {
     width: 40%;
     background-color: #92AFD7 ;
@@ -263,35 +312,5 @@ textarea {
     text-transform: uppercase;
     letter-spacing: 2.5px;
   }
-
-/*Gallery*/
-#grid_container_gallery {
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-template-areas: "header"
-                         "gallery"
-                        "footer";
-
-}
-#gallery {
-    grid-area: gallery;
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(10em, 1fr));
-    grid-auto-rows: auto;
-    grid-gap: 1.5em;
-    padding: 1.5em;
-}
-
-#gallery a {
-    display: flex;
-    flex-direction: row wrap;
-  
-}
-
-#gallery a img {
-    max-width: 100%;
-   ;
-}
-
 
 

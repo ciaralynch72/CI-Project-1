@@ -88,5 +88,50 @@ The footer is consistent across all three pages at the bottom of the page and th
 The home page is made up of a hero graphic along with two doodle graphics that I placed on colored backgrounds that tie in with the color scheme to break up the text. I kept the text to a minimum so as not to overwhelm the user but let them know everything they would need in order to learn about the market and know when and where it would be held. 
 
 #### Community Page
-The community page 
+The community page follows a similar layout to the home page with minimal copy divided by graphics which use the site colors. There is two main sections here, substainability tips and market rules. 
+
+About the bottom of the community page there is also a sign up form for page visitors who would be interesed in signing up to find out more or to leave feedback. 
+
+#### Gallery Page
+The Gallery page showcases som of the vendors that will be attending the market along with a caption of their names for let site visitors know what they can expect to see at the market. 
+
+The gallery was created using fancybox to allow site visitors to easily browse through the vendors. 
+
+## Technologies Used
+I have used several technologies that have enabled this design to work:
+
+- **HTML** used to create the static website
+- **CSS** used to style the website
+- [**Google Fonts**](https://fonts.google.com/)
+    - Used to obtain the fonts Raleway and Cabin
+- [Font Awesome](https://fontawesome.com/)
+    - Used to obtain the social media icons used in the footer and the icons used on the Home page
+- [Google Developer Tools](https://developers.google.com/web/tools/chrome-devtools)
+    - Used as a primary method of fixing spacing issues, finding bugs, and testing responsiveness across the project.
+- [GitHub](https://github.com/)
+    - Used to store code for the project after being pushed.
+- [Git](https://git-scm.com/)
+    - Used for version control by utilising the Gitpod terminal to commit to Git and Push to GitHub.
+- [Gitpod](https://www.gitpod.io/)
+    - Used as the development environment.
+- [Grammarly](https://www.grammarly.com/)
+    - Used to fix the thousands of grammar errors across the project.
+- [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB)
+    - Used to detect overflow of elements, which allowed me to quickly debug any issues.
+- [Coloors](https://coolors.co/)
+    - Used to create a colour palette for the design.
+- [Fancybox](https://fancyapps.com/fancybox/3/)
+    - Used to create the carosel
+- [Color Contrast Accessibility Validator](https://color.a11y.com/)
+    - Allowed me to test the colour contrast of my webpage.
+- [W3C Markup Validation Service](https://validator.w3.org/) 
+    - Used to validate all HTML code written and used in this webpage.
+- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
+    - Used to validate all CSS code written and used in this webpage.
+- [Freeformatter CSS Beautify](https://www.freeformatter.com/css-beautifier.html)
+    - Used to accurately format my CSS code.
+- [Freeformatter HTML Formatter](https://www.freeformatter.com/html-formatter.html)
+    - Used to accurately format my HTML code.
+- [AmIResponsive](http://ami.responsivedesign.is/)
+    - Used to generate repsonsive image used in README file.
 
