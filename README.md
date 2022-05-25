@@ -101,7 +101,7 @@ The Gallery page showcases som of the vendors that will be attending the market 
 
 The gallery was created using fancybox to allow site visitors to easily browse through the vendors.
 
-## Future Feature
+## Future Features
 
 #### Vendor Page
 I would like to create a page dedicated to vendors so that we can highlight their business and link page to their own website.
