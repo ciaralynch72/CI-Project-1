@@ -166,7 +166,7 @@ I have used several technologies that have enabled this design to work:
  #### Validator Testing 
 
  + Each page of HTML was tested using The Nu Html Checker. 
- 
+
  ![Validation results for all HTML docs](docs/readme_images/html_validation.PNG)
 
 + CSS was tested using W3C CSS Service. 
@@ -182,10 +182,15 @@ Browsers manually tested:
 * Google Chrome
 * Mozilla Firefox
 * Microsoft EDGE
-* Opera
-* Safari  
+* Safari
 
- 
+Devices manally tested:
+* Samsung A52
+* Iphone 8
+* Ipad 
+* Laptop
+* 22" monitor
+
  #### User Story Testing
 
     Expectations
