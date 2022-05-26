@@ -13,7 +13,7 @@ body{
     width: 100%;
     min-height: 100%; 
 }
-/*Grid Container*/
+/*Grid Container Home Page*/
 
 #grid_container_home {
     display: grid;
@@ -76,10 +76,10 @@ p {
 nav li {
     display: block;
     text-align: center;
-    margin: 5px;
-    padding-bottom: 5px;
+    margin: 6.5px;
+    padding-bottom: 6.5px;
 }
-/*Main Section*/
+/*Main Section Home Page*/
 
 main div h2 {
     background-color: #cf5c36;
@@ -164,6 +164,7 @@ footer h4 p {
 }
 
 /*Community Page*/
+/*Grid Container Community Page*/
 #grid_container_community {
     display: grid;
     grid-template-columns: 1fr;
@@ -230,6 +231,7 @@ footer h4 p {
 
 
 /*Gallery Page*/
+/*Grid Container Gallery Page*/
 #grid_container_gallery {
     display: grid;
     grid-template-columns: 1fr;
@@ -238,10 +240,7 @@ footer h4 p {
                          "gallery"
                          "contact_form"
                         "footer";
-
 }
-
-
 
 .gallery_intro {
     grid-area: gallery_intro;
@@ -289,7 +288,7 @@ footer h4 p {
 }
 
 input[type=text], select {
-    width: 40%;
+    width: 60%;
     padding: 5px 10px;
     margin: 5px 0;
     border: 2px solid #92AFD7;
@@ -297,7 +296,7 @@ input[type=text], select {
 }
 
 input[type=email], select {
-    width: 40%;
+    width: 60%;
     padding: 5px 10px;
     margin: 5px 0;
     border: 2px solid #92AFD7;
@@ -310,7 +309,7 @@ textarea {
 }
 
   input[type=submit] {
-    width: 40%;
+    width: 60%;
     background-color: #92AFD7 ;
     color: #274156;
     padding: 5px 10px;
