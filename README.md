@@ -1,6 +1,6 @@
 # [Kilworth Farmers' Market](https://ciaralynch72.github.io/ciaralynch-project-1/)
 
-![Responsive image of website pages](assets/readme_images/am_i_responsive.png)  
+![Responsive image of website pages](docs/readme_images/am_i_responsive.png)  
 Created to inform users about a new (fictional) farmers market that will commence this spring. The site will give users an over of what to expect and information about when and where the market will be held.
 
 ##### The business goals of the website are:
@@ -57,9 +57,9 @@ Text is broken up with graphics to make the content easily digestable by reader.
 
 #### Skeleton
 Wireframes
-1. [Home Page](assets/readme_images/homepage_wireframe.png)
-2. [Sign Up Page](assets/readme_images/sign_up.png)
-3. [Gallery Page](assets/readme_images/gallery_wireframe.png)
+1. [Home Page](docs/readme_images/homepage_wireframe.png)
+2. [Sign Up Page](docs/readme_images/sign_up.png)
+3. [Gallery Page](docs/readme_images/gallery_wireframe.png)
 
 The site layout and content has changed since my initial wireframe however I have kept the simple three page layout. I simplified the design which ment I could achieve responsiveness easier. I kept the content short and sweet to keep the user engaged and to provide a MVP site that can be the basis to suit the markets infancy and which can be developed as the market devolps to provide more functionality to the user and business owener. 
 
@@ -82,24 +82,35 @@ This is a fully responsive site that was created mobile first. The site is broke
 #### Header
 The header is consistent across all three pages. The header contains the name, Kilworth Farmers' Market and the navigation for the site. The navigation and the logo are all centered in the header to allow the user to easily navigate the site from the header. 
 
+![Header of site which includes the navigation links](docs/readme_images/header.png)
+
 #### Navigation 
 The navigation is in the center of the page and and consists of three links to the Home, Community and Gallery pages. The navigation links turn orange when hovered over and the current page will be underlined in white to let the user know what page they are currently on. 
 
 #### Footer
 The footer is consistent across all three pages at the bottom of the page and the color is consistent with the header to create a balanced page. The footer contains the address of the market along with the social media links to social platforms to allow the user to look at more online content linked too the market. 
+![Footer of site which includes location and navigation links](docs/readme_images/footer.PNG)
 
 #### Home Page
 The home page is made up of a hero graphic along with two doodle graphics that I placed on colored backgrounds that tie in with the color scheme to break up the text. I kept the text to a minimum so as not to overwhelm the user but let them know everything they would need in order to learn about the market and know when and where it would be held. 
 
-#### Community Page
-The community page follows a similar layout to the home page with minimal copy divided by graphics which use the site colors. There is two main sections here, substainability tips and market rules. 
+![Home page of Kilworth Farmers' Market](docs/readme_images/homepage.PNG)
 
-About the bottom of the community page there is also a sign up form for page visitors who would be interesed in signing up to find out more or to leave feedback. 
+#### Community Page
+The community page follows a similar layout to the home page with minimal copy divided by graphics which use the site colors. There is two main sections here, substainability tips and market rules.
+
+![Community page of Kilworth Farmers' Market](docs/readme_images/community_page.PNG)
 
 #### Gallery Page
 The Gallery page showcases som of the vendors that will be attending the market along with a caption of their names for let site visitors know what they can expect to see at the market. 
 
 The gallery was created using fancybox to allow site visitors to easily browse through the vendors.
+
+![Gallery page of Kilworth Farmers' Market](docs/readme_images/gallery.PNG)
+
+At the bottom of the community page there is also a sign up form for page visitors who would like to learn more or leave feedback.
+
+![Form for site visitors to find out more information or to leave feedback](docs/readme_images/form.PNG)
 
 ## Future Features
 
