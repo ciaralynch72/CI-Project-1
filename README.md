@@ -66,7 +66,9 @@ The site layout and content has changed since my initial wireframe however I hav
 
 #### Surface
 
-The colour pallette was choosen as a nod to those colors that we so often find in the Irish landscape where out growers and producers live and work. Green was chosen for the header and footer as it is the color we associate with land. The blue and yellow accented throughout represent the sky and sun and the orange is a nod to the earth. All thiings that are needed for something to grow. The soft colors allow for an easy visual experience for the user and carry accross all pages to allow for familiarity for the user.
+The colour pallette was choosen as a nod to those colors that we so often find in the Irish landscape where our growers and producers live and work. Green was chosen for the header and footer as it is the color we associate with land. The blue and yellow accented throughout represent the sky and sun and the orange is a nod to the earth. All things that are needed for something to grow. The soft colors allow for an easy visual experience for the user and carry accross all pages to allow for familiarity for the user. Whitesmoke was chose as the text in the header, footer and form. Navy was chosen for the main body as I like that it is softer that traditional black and has a high accessiblity score agains the other colors used across the site. 
+
+![Color chart](docs/readme_images/color_chart.png)
 
 The font Ralway and Cabin was used as they are lightweight and have more a natural feel to them which I tought comlimented the colors. 
 
