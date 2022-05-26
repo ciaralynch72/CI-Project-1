@@ -42,13 +42,13 @@ What the users are looking for:
 #### Scope
 In order to achieve the strategy for both business and user goals I have included the following features:
 
-1. **Header** which is consistent across the Home, Community and Gallery pages
-2. **Navigation** to all three pages; Home, Community and Gallery
-3. **Footer** which is consistent across all three pages with address of the market and links to social media accounts 
-4. A **home page** that includes the details of the market 
-5. **Community page** with includes substainability tips and market rules 
-6. A **form** for visitors to join the comminity 
-7. A **fancybox gallery** to showcase vendors along with a caption of each vendors name to go with the photo
++ **Header** which is consistent across the Home, Community and Gallery pages
++ **Navigation** to all three pages; Home, Community and Gallery
++ **Footer** which is consistent across all three pages with address of the market and links to social media accounts 
++ **home page** that includes the details of the market 
++ **Community page** with includes substainability tips and market rules 
++ **form** for visitors to join the comminity 
++ **fancybox gallery** to showcase vendors along with a caption of each vendors name to go with the photo
 
 #### Structure
 This is a simple three page website that will give users all the necessary information they will need to attend the farmers market or to sign up to find out further information. Users are presented with the most important information on the Home page, when and where the market is on and from there they can easily navigate to the Community and Gallery pages to gain further information about the market. 
@@ -163,6 +163,50 @@ I have used several technologies that have enabled this design to work:
 
 
 ## Testing
- #### W3C Markup Validation Service
- Each page of HTML was tested using W3C Markup Validation Service. 
+ #### Validator Testing 
 
+ + Each page of HTML was tested using The Nu Html Checker. 
+ 
+ ![Validation results for all HTML docs](docs/readme_images/html_validation.PNG)
+
++ CSS was tested using W3C CSS Service. 
+
+ ![Validation results for CSS file](docs/readme_images/css_validation.PNG)
+
+
+
+#### Manual Testing
+
+Browsers manually tested:
+
+* Google Chrome
+* Mozilla Firefox
+* Microsoft EDGE
+* Opera
+* Safari  
+
+ 
+ #### User Story Testing
+
+    Expectations
+      As a user I wanted to:
+      1. Find out information about the market such as when and where it was on
+      2. Be able to click through the pages to find out more about the market
+      3. To know what to expect at the market 
+      4. Be able to ask for more information/give feedback
+    Result
+      As a user I was able to:
+      1. Find out when and where the market was on from the home page
+      2. To click through the pages and find further information
+      3. I was able to form an opinion on the market
+      4. I was able to seek for more information or leave feedback via the form section
+
+      
+| Feature           |  Expect              |  Action |  Result                 |
+|-------------------|----------------------|---------|-------------------------|
+|Nav Home           |To go to Home page    |Click On |Taken to Home Page       |
+|Nav Community      |To go to Community page|Click On |Taken to Community Page  |
+|Nav Gallery        |To go to Gallery page |Click On |Taken to Gallery Page    |
+|Social links       |To go to new tab of social icon |Click On |Taken to social page on new tab|
+|Form               |Fill out and submit   |Click On |Taken to Code Institute page and know my form was sent|
+|Gallery            |Click images to open carousal|Click On |Larger images opens and I can click though all photos|
