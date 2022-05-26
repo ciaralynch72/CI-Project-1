@@ -7,7 +7,7 @@ Created to inform users about a new (fictional) farmers market that will commenc
 
 1. To let users know about a Saturday farmers market that will be taking place from May to October
 2. To encourage visitors of the site to come to the market and purchase products
-3. To let local producors and vendors know about a new market and to reach out for more information
+3. To let local producers and vendors know about a new market and to reach out for more information
 4. To show visitors what to expect at the market
 5. To relay the market rules to potential visitors 
 
