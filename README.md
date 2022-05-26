@@ -165,7 +165,8 @@ I have used several technologies that have enabled this design to work:
 
 
 ## Testing
- #### Validator Testing 
+
+ ### Validator Testing 
 
  + Each page of HTML was tested using The Nu Html Checker. 
 
@@ -175,9 +176,25 @@ I have used several technologies that have enabled this design to work:
 
  ![Validation results for CSS file](docs/readme_images/css_validation.PNG)
 
+ ### Lighthouse
+
+ I tested each of my pages on lighthouse for both mobile and desktop.
+
+ + Home Page
+
+ ![Lighthouse results for home page](docs/readme_images/lighthouse_home.PNG)  
+
++ Community Page
+
+ ![Lighthouse results for community page](docs/readme_images/lighthouse_community.GIF) 
+
+ + Gallery Page 
+
+  ![Lighthouse results for gallery page](docs/readme_images/lighthouse_gallery.GIF) 
 
 
-#### Manual Testing
+
+### Manual Testing
 
 Browsers manually tested:
 
@@ -193,7 +210,9 @@ Devices manally tested:
 * Laptop
 * 22" monitor
 
- #### User Story Testing
+I used both chrome dev tools and firefox dev tools throughout building my site to check for responsiveness and to make sure it was visually appealing.
+
+ ### User Story Testing
 
     Expectations
       As a user I wanted to:
@@ -217,3 +236,30 @@ Devices manally tested:
 |Social links       |To go to new tab of social icon |Click On |Taken to social page on new tab|
 |Form               |Fill out and submit   |Click On |Taken to Code Institute page and know my form was sent|
 |Gallery            |Click images to open carousal|Click On |Larger images opens and I can click though all photos|
+
+
+
+### Bugs
+No know bugs were found upon submitting the project.
+
+However I did add styling to elements as I built the site to make sure links were clickable on mobile on smaller devices. I made my thumbnails bigger to help with resolution on moible.
+
+## Deployment 
+
+This site was deployed via GitHub pages using the following steps:
+1. Open GitHub and locate the [Project 1 Repository](https://ciaralynch72.github.io/ciaralynch-project-1/)
+2. At the top of the repository, locate the "Settings" button on the menu
+2. In the left-hand navigation section scroll down to the **Pages** button
+3. From the source section drop-down menu change Branch from **none** to **main** and click the **Save**
+4. After several minutes the website will be live and and there will be the link to [live site](https://ciaralynch72.github.io/ciaralynch-project-1/index.html)
+
+## Credits
+
+#### Copy
+All copy was written by the developer after researching other farmer market websites
+
+#### Design
+Design was inspired from researching the following sites:
+- [Junction Farmers Market](https://junctionmarket.ca/)
+- [Cabbage Town Farmers Market](https://www.cabbagetownmarket.ca/)
+
