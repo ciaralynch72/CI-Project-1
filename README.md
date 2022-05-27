@@ -214,14 +214,14 @@ I used both chrome dev tools and firefox dev tools throughout building my site t
 
  ### User Story Testing
 
-    Expectations
-      As a user I wanted to:
+  Expectations
+    As a user I wanted to:
       1. Find out information about the market such as when and where it was on
       2. Be able to click through the pages to find out more about the market
       3. To know what to expect at the market 
       4. Be able to ask for more information/give feedback
-    Result
-      As a user I was able to:
+  Result
+    As a user I was able to:
       1. Find out when and where the market was on from the home page
       2. To click through the pages and find further information
       3. I was able to form an opinion on the market
@@ -255,11 +255,45 @@ This site was deployed via GitHub pages using the following steps:
 
 ## Credits
 
-#### Copy
-All copy was written by the developer after researching other farmer market websites
+- #### Copy
+All copy was written by the developer after researching other farmer market websites.
 
-#### Design
+- #### Design
 Design was inspired from researching the following sites:
 - [Junction Farmers Market](https://junctionmarket.ca/)
 - [Cabbage Town Farmers Market](https://www.cabbagetownmarket.ca/)
+
+- #### Media
+Images were taken from [Pexels](https://www.pexels.com/collections/agriculture-84ityxd/), [Unsplash](https://unsplash.com/s/photos/farm) and [Ireland's Content Pool](https://www.irelandscontentpool.com/en/_/login?login.redirectlogin=/en) I resized all media with photoshop and paint. 
+
+- #### Graphics
+The hero graphic on the main page was downloaded from [here](https://pngset.com/download-free-png-eouky) I used photoshop to alter the graphic color to the navy that I used for the font color. The rest of the graphics were found on [Canva](https://www.canva.com/) and edited directly on the site.
+
+- #### Use of CSS Grid
+After researching options of how to build my website I opted to go with a grid layout. I used [W3Schools](https://www.w3schools.com/) and Youtube, most notably [Kevin Powells channel](https://www.youtube.com/kepowob), to get a handle of how I should used grids to create a responsive website.
+
+- #### Gallery layout 
+I practiced many ways to layout a grid but [this video](https://www.youtube.com/watch?v=XHPudSzPYVg) really made it all click and work for my layout. 
+
+- #### Fancybox Carousel
+My mentor Guido Cecilio suggested fancybox for my gallery to improve used experience. He provided me with the code I needed to get started and I reseached the rest on platforms that I had previously used. 
+
+All captions on the gallery are neighbors and friends names and businesses and I have permission to use them for this project. 
+
+- #### Footer
+The footer code is heavily inspired by the Love Running Project that was completed prior to starting the project. 
+
+- #### Slack
+Code Institute's slack channel was a huge help in helping with problems and to give a sense of what was expected for projects. Support from fellow students was greatly appreciated.
+
+- #### Mentor
+My mentor Guido Cecilio was extremely generous with his time and sharing helpful tips with me throughout out mentor sessions. It really helped to know I was on the right track and to have his expertise to learn from. 
+
+- #### Cohort Facilitators
+Code Institutes Facilitators were great throughout the project, answering questiosn and encouraging us to the finish line. They also made it easy to stay on track and keep everyone up to date. Thanks Kenan Wright and Kascia Bogucka.
+
+- #### Code Institute and MSLETB
+Big thank you to Code institute for creating such a great learning platform that gave me the tools and knowledge to create this website and for MSLETB for the opportunity to participate in this course. 
+
+
 
