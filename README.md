@@ -13,11 +13,11 @@ Created to inform users about a new (fictional) farmers market that will commenc
 
 ##### The user goals of the website are:
 
-1. To learn about a new famrers Market in Kilworth
+1. To learn about a new farmers Market in Kilworth
 2. To learn about when, where and what time the Market takes place
 3. To learn about the goals of the market
 4. To be informed of how the market will be run
-5. To learn of tips to help the visitor become more substainable
+5. To learn of tips to help the visitor become more sustainable
 6. To learn about what kind of vendors will be at the market
 7. To be able to sign up to find out more information on the market
 
@@ -31,7 +31,7 @@ Target Users:
 1. Those living or visiting the locality of Kilworth
 2. Vendors and producers who are living in the community or within driving distance
 4. People who wish to support the local economy
-5. People who are interested in contributing to making the locality more substainable
+5. People who are interested in contributing to making the locality more sustainable
 
 What the users are looking for:
 
@@ -46,14 +46,14 @@ In order to achieve the strategy for both business and user goals I have include
 + **Navigation** to all three pages; Home, Community and Gallery
 + **Footer** which is consistent across all three pages with address of the market and links to social media accounts 
 + **home page** that includes the details of the market 
-+ **Community page** with includes substainability tips and market rules 
-+ **form** for visitors to join the comminity 
++ **Community page** with includes sustainability tips and market rules 
++ **form** for visitors to join the community 
 + **fancybox gallery** to showcase vendors along with a caption of each vendors name to go with the photo
 
 #### Structure
 This is a simple three page website that will give users all the necessary information they will need to attend the farmers market or to sign up to find out further information. Users are presented with the most important information on the Home page, when and where the market is on and from there they can easily navigate to the Community and Gallery pages to gain further information about the market. 
 
-Text is broken up with graphics to make the content easily digestable by reader. Each page carries the same look and feel to provide recognition to the user. 
+Text is broken up with graphics to make the content easily digestible by reader. Each page carries the same look and feel to provide recognition to the user. 
 
 #### Skeleton
 Wireframes
@@ -61,12 +61,12 @@ Wireframes
 2. [Sign Up Page](docs/readme_images/sign_up.png)
 3. [Gallery Page](docs/readme_images/gallery_wireframe.png)
 
-The site layout and content has changed since my initial wireframe however I have kept the simple three page layout. I simplified the design which ment I could achieve responsiveness easier. I kept the content short and sweet to keep the user engaged and to provide a MVP site that can be the basis to suit the markets infancy and which can be developed as the market devolps to provide more functionality to the user and business owener. 
+The site layout and content has changed since my initial wireframe however I have kept the simple three page layout. I simplified the design which ment I could achieve responsiveness easier. I kept the content short and sweet to keep the user engaged and to provide a MVP site that can be the basis to suit the markets infancy and which can be developed as the market grows to provide more functionality to the user and business owener. 
 
 
 #### Surface
 
-The colour pallette was choosen as a nod to those colors that we so often find in the Irish landscape where our growers and producers live and work. Green was chosen for the header and footer as it is the color we associate with land. The blue and yellow accented throughout represent the sky and sun and the orange is a nod to the earth. All things that are needed for something to grow. The soft colors allow for an easy visual experience for the user and carry accross all pages to allow for familiarity for the user. Whitesmoke was chose as the text in the header, footer and form. Navy was chosen for the main body as I like that it is softer that traditional black and has a high accessiblity score agains the other colors used across the site. 
+The colour pallette was choosen as a nod to those colors that we so often find in the Irish landscape where our growers and producers live and work. Green was chosen for the header and footer as it is the color we associate with land. The blue and yellow accented throughout represent the sky and sun and the orange is a nod to the earth. All things that are needed for something to grow. The soft colors allow for an easy visual experience for the user and carry accross all pages to allow for familiarity for the user. Whitesmoke was chose as the text in the header, footer and form. Navy was chosen for the main body as I like that it is softer that traditional black and has a high accessibility score against the other colors used across the site. 
 
 ![Color chart](docs/readme_images/color_chart.png)
 
@@ -104,7 +104,7 @@ The community page follows a similar layout to the home page with minimal copy d
 ![Community page of Kilworth Farmers' Market](docs/readme_images/community_page.PNG)
 
 #### Gallery Page
-The Gallery page showcases som of the vendors that will be attending the market along with a caption of their names for let site visitors know what they can expect to see at the market. 
+The Gallery page showcases some of the vendors that will be attending the market along with a caption of their names for let site visitors know what they can expect to see at the market. 
 
 The gallery was created using fancybox to allow site visitors to easily browse through the vendors.
 
@@ -155,7 +155,7 @@ I have used several technologies that have enabled this design to work:
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
     - Used to validate all CSS code written and used in this webpage.
 - [AmIResponsive](http://ami.responsivedesign.is/)
-    - Used to generate repsonsive image used in README file.
+    - Used to generate responsive image used in README file.
 - Photoshop
     - Used to change the line color on the farm graphic on the main page.
 - Chrome Developer Tools
@@ -214,14 +214,14 @@ I used both chrome dev tools and firefox dev tools throughout building my site t
 
  ### User Story Testing
 
-  Expectations
-    As a user I wanted to:
+      Expectations
+      As a user I wanted to:
       1. Find out information about the market such as when and where it was on
       2. Be able to click through the pages to find out more about the market
       3. To know what to expect at the market 
       4. Be able to ask for more information/give feedback
-  Result
-    As a user I was able to:
+      Result
+      As a user I was able to:
       1. Find out when and where the market was on from the home page
       2. To click through the pages and find further information
       3. I was able to form an opinion on the market
@@ -242,7 +242,7 @@ I used both chrome dev tools and firefox dev tools throughout building my site t
 ### Bugs
 No know bugs were found upon submitting the project.
 
-However I did add styling to elements as I built the site to make sure links were clickable on mobile on smaller devices. I made my thumbnails bigger to help with resolution on moible.
+How ever I did add styling to elements as I built the site to make sure links were clickable on mobile on smaller devices. I made my thumbnails bigger to help with resolution on mobile.
 
 ## Deployment 
 
@@ -283,6 +283,9 @@ All captions on the gallery are neighbors and friends names and businesses and I
 - #### Footer
 The footer code is heavily inspired by the Love Running Project that was completed prior to starting the project. 
 
+- #### README.md
+I learned alot about how to approach my README file from past projects of Code Institute student which helped me navigate this huge learning curve. Kudos to those who have shared past projects. 
+
 - #### Slack
 Code Institute's slack channel was a huge help in helping with problems and to give a sense of what was expected for projects. Support from fellow students was greatly appreciated.
 
@@ -290,7 +293,7 @@ Code Institute's slack channel was a huge help in helping with problems and to g
 My mentor Guido Cecilio was extremely generous with his time and sharing helpful tips with me throughout out mentor sessions. It really helped to know I was on the right track and to have his expertise to learn from. 
 
 - #### Cohort Facilitators
-Code Institutes Facilitators were great throughout the project, answering questiosn and encouraging us to the finish line. They also made it easy to stay on track and keep everyone up to date. Thanks Kenan Wright and Kascia Bogucka.
+Code Institutes Facilitators were great throughout the project, answering questions and encouraging us to the finish line. They also made it easy to stay on track and keep everyone up to date. Thanks Kenan Wright and Kascia Bogucka.
 
 - #### Code Institute and MSLETB
 Big thank you to Code institute for creating such a great learning platform that gave me the tools and knowledge to create this website and for MSLETB for the opportunity to participate in this course. 
