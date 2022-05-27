@@ -1,7 +1,7 @@
 # [Kilworth Farmers' Market](https://ciaralynch72.github.io/ciaralynch-project-1/)
 
 ![Responsive image of website pages](docs/readme_images/am_i_responsive.png)  
-Created to inform users about a new (fictional) farmers market that will commence this spring. The site will give users an over of what to expect and information about when and where the market will be held.
+Created to inform users about a new (fictional) farmers market that will commence this spring. The site will give users an overview of what to expect and information about when and where the market will be held.
 
 ##### The business goals of the website are:
 
@@ -17,7 +17,7 @@ Created to inform users about a new (fictional) farmers market that will commenc
 2. To learn about when, where and what time the Market takes place
 3. To learn about the goals of the market
 4. To be informed of how the market will be run
-5. To learn of tips to help the visitor become more sustainable
+5. To learn of tips to help visitors become more sustainable
 6. To learn about what kind of vendors will be at the market
 7. To be able to sign up to find out more information on the market
 
@@ -218,14 +218,14 @@ I used both chrome dev tools and firefox dev tools throughout building my site t
       As a user I wanted to:
       1. Find out information about the market such as when and where it was on
       2. Be able to click through the pages to find out more about the market
-      3. To know what to expect at the market 
+      3. To know what to expect if I visit the market 
       4. Be able to ask for more information/give feedback
       Result
       As a user I was able to:
       1. Find out when and where the market was on from the home page
-      2. To click through the pages and find further information
-      3. I was able to form an opinion on the market
-      4. I was able to seek for more information or leave feedback via the form section
+      2. To click through the pages and find further information about the the market
+      3. I was able to form an opinion on the market and know what I would expect if I visit in person
+      4. I was able to ask for more information or leave feedback via the form section
 
       
 | Feature           |  Expect              |  Action |  Result                 |
@@ -233,9 +233,10 @@ I used both chrome dev tools and firefox dev tools throughout building my site t
 |Nav Home           |To go to Home page    |Click On |Taken to Home Page       |
 |Nav Community      |To go to Community page|Click On |Taken to Community Page  |
 |Nav Gallery        |To go to Gallery page |Click On |Taken to Gallery Page    |
-|Social links       |To go to new tab of social icon |Click On |Taken to social page on new tab|
-|Form               |Fill out and submit   |Click On |Taken to Code Institute page and know my form was sent|
+|Social links       |To go to new tab of social icon main page |Click On |Taken to social page on new tab|
+|Form               |Fill out and submit   |Click On |Taken to Code Institute page and I know my form was sent|
 |Gallery            |Click images to open carousal|Click On |Larger images opens and I can click though all photos|
+|All Pages           |To be responive on multiple devices   |Test on phone, tablet, laptop and monitor |All pages are responsive on all devices      |
 
 
 
@@ -297,6 +298,8 @@ Code Institutes Facilitators were great throughout the project, answering questi
 
 - #### Code Institute and MSLETB
 Big thank you to Code institute for creating such a great learning platform that gave me the tools and knowledge to create this website and for MSLETB for the opportunity to participate in this course. 
+
+##### Thank You!
 
 
 
